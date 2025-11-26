@@ -40,7 +40,10 @@ I am currently open to **Full Stack Developer Internships** where I can apply my
 </div>
 
 <br/>
-
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=om272004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om272004&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+</div>
 
 <br />
 
