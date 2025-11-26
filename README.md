@@ -27,26 +27,23 @@
 I'm a final-year Engineering student (Honors in Data Science) with a deep focus on **Full Stack Web Development**. I specialize in building production-ready applications using the Next.js ecosystem.
 
 I recently shipped two major projects:
-* **[QuickVote](https://github.com/om272004/YOUR-QUICKVOTE-REPO-NAME)**: A real-time polling app handling distributed state with WebSockets (Pusher) and Optimistic UI updates.
+* **[QuickVote](https://quick-vote-project.vercel.app)**: A real-time polling app handling distributed state with WebSockets (Pusher) and Optimistic UI updates.
 * **[DevCrate](https://devcrate-app.vercel.app)**: An intelligent bookmarking tool that uses Google Gemini AI to summarize developer resources automatically.
 
 I am currently open to **Full Stack Developer Internships** where I can apply my skills in system design and modern web architecture.
 
 <br />
 
-<h3 align="left">🛠️ Tech Stack</h3>
-<div align="left">
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,docker,git,vscode,postman,figma&perline=12" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om272004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om272004&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-</div>
 
 <br />
 
 <div align="center">
-  <img src="
+  <img src="https://raw.githubusercontent.com/om272004/om272004/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
